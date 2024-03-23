@@ -1,3 +1,3 @@
-let greet = "Hello Ahmad";
-console.log(greet);
+let name = "Ahmad";
+console.log(`hello ${name}`);
 export {};

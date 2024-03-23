@@ -1,2 +1,2 @@
-let greet: string = "Hello Ahmad";
-console.log(greet);
+let name: string = "Ahmad";
+console.log(`hello ${name}`);
